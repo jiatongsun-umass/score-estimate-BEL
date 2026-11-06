@@ -44,4 +44,4 @@ Here `score_x`, `score_y`, and `score_z` are the three components of the estimat
 
 ## References
 
-For further theoretical and implementation details, please refer to our paper (arXiv link to be added).
+For further theoretical and implementation details, please refer to [our paper on arXiv](https://arxiv.org/pdf/2611.03915v1).
